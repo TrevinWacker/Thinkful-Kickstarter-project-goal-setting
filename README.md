@@ -1,5 +1,6 @@
 # kickstarter_project_goal_setting
-Project for Thinkful Capstone 1: A/B testing
+Analyzing the risk-reward benefits in determining project goal for Kickstarter projects through A/B testing
+Project for Thinkful Capstone 1
 
 # Purpose
 Project creators on Kickstarter must set their project to succeed over anything; if goals aren't met in the alloted time,  no money is earned and the project fails.
